@@ -4,7 +4,7 @@
 
 The Health Information System is a Java-based application designed to manage and streamline the interactions between patients, doctors, nurses, and administrators in a healthcare environment. The system utilizes Object-Oriented Programming (OOP) principles to provide a structured and efficient way to handle user data and healthcare operations.
 
-##Features
+## Features
 
 User Management: Administrators can add, delete, and manage users (Doctors, Nurses, and Patients).
 Login System: Secure login for different user roles with password protection.
