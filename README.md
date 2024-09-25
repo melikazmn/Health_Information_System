@@ -6,12 +6,12 @@ The Health Information System is a Java-based application designed to manage and
 
 ## Features
 
-User Management: Administrators can add, delete, and manage users (Doctors, Nurses, and Patients).
-Login System: Secure login for different user roles with password protection.
-Patient Management: Doctors can pick patients, view their information, write prescriptions, and discharge them.
-Nurse Operations: Nurses can check patient states, get prescriptions, and manage patients' check-ins.
-Admin Functions: Admins have access to all users, can change passwords, and manage healthcare professionals.
-File Handling: Configuration settings are read from an external file (config.txt) for flexibility.
+- User Management: Administrators can add, delete, and manage users (Doctors, Nurses, and Patients).
+- Login System: Secure login for different user roles with password protection.
+- Patient Management: Doctors can pick patients, view their information, write prescriptions, and discharge them.
+- Nurse Operations: Nurses can check patient states, get prescriptions, and manage patients' check-ins.
+- Admin Functions: Admins have access to all users, can change passwords, and manage healthcare professionals.
+- File Handling: Configuration settings are read from an external file (config.txt) for flexibility.
 
 ## Requirements
 
