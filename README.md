@@ -15,15 +15,15 @@ File Handling: Configuration settings are read from an external file (config.txt
 
 ## Requirements
 
-Java Development Kit (JDK) 8 or higher
-An IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools to compile and run the program
+- Java Development Kit (JDK) 8 or higher
+- An IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools to compile and run the program
 
 ## Configuration
 
 The application reads from config.txt located in the specified path. Ensure this file exists and contains the necessary data for doctors and patients.
 The format for each line in config.txt is as follows:
-Doctor fields (even lines)
-Patient fields (odd lines)
+- Doctor fields (even lines)
+- Patient fields (odd lines)
 
 ## Usage
 
@@ -33,10 +33,10 @@ Follow the menu prompts to perform various operations according to your role.
 
 ## User Roles
 
-Admin: Can manage all users and oversee the healthcare operations.
-Doctor: Responsible for patient care and management.
-Nurse: Assists in patient care and coordination between doctors and patients.
-Patient: Can check in/out and view their personal information.
+- Admin: Can manage all users and oversee the healthcare operations.
+- Doctor: Responsible for patient care and management.
+- Nurse: Assists in patient care and coordination between doctors and patients.
+- Patient: Can check in/out and view their personal information.
 
 ## Contributions
 
